@@ -1,0 +1,34 @@
+body{
+    background-color: azure;
+    font-family: Helvetica, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    min-width: 700px;
+    border: 2px solid purple;
+    margin-left: auto;
+    margin-right: auto;
+}
+thead{
+    text-align: center;
+    font-weight: bold;
+}
+thead td{
+    background-color: violet;
+}
+tbody td{
+    border-top: 1px solid purple;
+}
+.tag-td span{
+    background-color: bisque;
+    font-family: monospace;
+}
